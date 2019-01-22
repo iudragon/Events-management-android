@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#191919</color>
+    <color name="colorAccent">#ff4912</color>
+    <color name="tab_background_selected">#262626</color>
+    <color name="tab_background_unselected">#262626</color>
+    <color name="black">#1d1d1d</color>
+    <color name="deeppurple">#bc7cfb</color>
+    <color name="yellow">#fddfc230</color>
+    <color name="green">#55b283</color>
+    <color name="pink">#f98aaf</color>
+    <color name="lightgray">#e2e2e2</color>
+    <color name="darkgray">#a9a9a9</color>
+    <color name="darkslategray">#2f4f4f</color>
+    <color name="lightslategray">#576979</color>
+    <color name="greenyellow">#54c829</color>
+    <color name="orange">#ffa500</color>
+    <color name="parrot">#18f409</color>
+    <color name="gray">#db66cc</color>
+    <color name="violet">#62b6ce</color>
+    <color name="grey">#a8afb2</color>
+
+
+</resources>
